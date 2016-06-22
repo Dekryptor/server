@@ -12,6 +12,8 @@
     <modules>
         <module>commons</module>
         <module>loginserver</module>
+        <module>lobbyserver</module>
+        <module>gameserver</module>
     </modules>
 
     <properties>
